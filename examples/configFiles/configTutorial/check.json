@@ -1,0 +1,29 @@
+{
+    "board" : {
+        "size" : "8"
+    },
+    "white_piece" : [
+        {
+            "type" : "rook",
+            "posX" : "e",
+            "posY" : "1"
+        },
+        {
+            "type" : "queen",
+            "posX" : "d",
+            "posY" : "1"
+        },
+        {
+            "type" : "king",
+            "posX" : "b",
+            "posY" : "1"
+        }
+    ],
+    "black_piece" : [
+        {
+            "type" : "king",
+            "posX" : "g",
+            "posY" : "8"
+        }
+    ]
+}

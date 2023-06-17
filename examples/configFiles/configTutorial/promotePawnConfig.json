@@ -1,0 +1,14 @@
+{
+    "board" : {
+        "size" : "8"
+    },
+    "white_piece" : [
+    ],
+    "black_piece" : [
+        {
+            "type" : "pawn",
+            "posX" : "d",
+            "posY" : "2"
+        }
+    ]
+}

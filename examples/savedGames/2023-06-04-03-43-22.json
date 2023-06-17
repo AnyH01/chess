@@ -1,0 +1,186 @@
+{
+    "blackPieces": [
+        {
+            "doubleMove": false,
+            "isNotMove": true,
+            "posX": 7,
+            "posY": 97,
+            "type": "pawn"
+        },
+        {
+            "doubleMove": false,
+            "isNotMove": true,
+            "posX": 7,
+            "posY": 98,
+            "type": "pawn"
+        },
+        {
+            "doubleMove": false,
+            "isNotMove": true,
+            "posX": 7,
+            "posY": 99,
+            "type": "pawn"
+        },
+        {
+            "doubleMove": false,
+            "isNotMove": true,
+            "posX": 7,
+            "posY": 100,
+            "type": "pawn"
+        },
+        {
+            "doubleMove": false,
+            "isNotMove": true,
+            "posX": 7,
+            "posY": 101,
+            "type": "pawn"
+        },
+        {
+            "doubleMove": false,
+            "isNotMove": true,
+            "posX": 7,
+            "posY": 102,
+            "type": "pawn"
+        },
+        {
+            "doubleMove": false,
+            "isNotMove": true,
+            "posX": 7,
+            "posY": 103,
+            "type": "pawn"
+        },
+        {
+            "doubleMove": false,
+            "isNotMove": true,
+            "posX": 7,
+            "posY": 104,
+            "type": "pawn"
+        },
+        {
+            "canCastle": true,
+            "posX": 8,
+            "posY": 97,
+            "type": "rook"
+        },
+        {
+            "posX": 8,
+            "posY": 98,
+            "type": "horse"
+        },
+        {
+            "posX": 8,
+            "posY": 99,
+            "type": "bishop"
+        },
+        {
+            "posX": 8,
+            "posY": 100,
+            "type": "queen"
+        },
+        {
+            "castle": true,
+            "posX": 8,
+            "posY": 101,
+            "type": "king"
+        },
+        {
+            "posX": 8,
+            "posY": 102,
+            "type": "bishop"
+        },
+        {
+            "posX": 8,
+            "posY": 103,
+            "type": "horse"
+        },
+        {
+            "canCastle": true,
+            "posX": 8,
+            "posY": 104,
+            "type": "rook"
+        }
+    ],
+    "size": 8,
+    "turn": 0,
+    "whitePieces": [
+        {
+            "canCastle": true,
+            "posX": 1,
+            "posY": 97,
+            "type": "rook"
+        },
+        {
+            "posX": 1,
+            "posY": 100,
+            "type": "queen"
+        },
+        {
+            "castle": true,
+            "posX": 1,
+            "posY": 101,
+            "type": "king"
+        },
+        {
+            "canCastle": true,
+            "posX": 1,
+            "posY": 104,
+            "type": "rook"
+        },
+        {
+            "doubleMove": false,
+            "isNotMove": true,
+            "posX": 2,
+            "posY": 98,
+            "type": "pawn"
+        },
+        {
+            "doubleMove": false,
+            "isNotMove": true,
+            "posX": 2,
+            "posY": 99,
+            "type": "pawn"
+        },
+        {
+            "doubleMove": false,
+            "isNotMove": true,
+            "posX": 2,
+            "posY": 100,
+            "type": "pawn"
+        },
+        {
+            "doubleMove": false,
+            "isNotMove": true,
+            "posX": 2,
+            "posY": 101,
+            "type": "pawn"
+        },
+        {
+            "doubleMove": false,
+            "isNotMove": true,
+            "posX": 2,
+            "posY": 102,
+            "type": "pawn"
+        },
+        {
+            "doubleMove": false,
+            "isNotMove": true,
+            "posX": 2,
+            "posY": 103,
+            "type": "pawn"
+        },
+        {
+            "doubleMove": false,
+            "isNotMove": true,
+            "posX": 2,
+            "posY": 104,
+            "type": "pawn"
+        },
+        {
+            "doubleMove": false,
+            "isNotMove": false,
+            "posX": 3,
+            "posY": 97,
+            "type": "pawn"
+        }
+    ]
+}

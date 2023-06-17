@@ -1,0 +1,159 @@
+{
+    "board" : {
+        "size" : "15"
+    },
+    "white_piece" : [
+        {
+            "type" : "rook",
+            "posX" : "h",
+            "posY" : "1"
+        },
+        {
+            "type" : "pawn",
+            "posX" : "a",
+            "posY" : "2"
+        },
+        {
+            "type" : "pawn",
+            "posX" : "b",
+            "posY" : "2"
+        },
+        {
+            "type" : "pawn",
+            "posX" : "c",
+            "posY" : "2"
+        },
+        {
+            "type" : "pawn",
+            "posX" : "d",
+            "posY" : "2"
+        },
+        {
+            "type" : "pawn",
+            "posX" : "e",
+            "posY" : "2"
+        },
+        {
+            "type" : "pawn",
+            "posX" : "f",
+            "posY" : "2"
+        },
+        {
+            "type" : "pawn",
+            "posX" : "g",
+            "posY" : "2"
+        },
+        {
+            "type" : "pawn",
+            "posX" : "h",
+            "posY" : "2"
+        },
+        {
+            "type" : "rook",
+            "posX" : "a",
+            "posY" : "1"
+        },
+        {
+            "type" : "horse",
+            "posX" : "b",
+            "posY" : "1"
+        },
+        {
+            "type" : "bishop",
+            "posX" : "c",
+            "posY" : "1"
+        },
+        {
+            "type" : "queen",
+            "posX" : "d",
+            "posY" : "1"
+        },
+        {
+            "type" : "king",
+            "posX" : "e",
+            "posY" : "1"
+        }
+    ],
+    "black_piece" : [
+        {
+            "type" : "pawn",
+            "posX" : "a",
+            "posY" : "7"
+        },
+        {
+            "type" : "pawn",
+            "posX" : "b",
+            "posY" : "7"
+        },
+        {
+            "type" : "pawn",
+            "posX" : "c",
+            "posY" : "7"
+        },
+        {
+            "type" : "pawn",
+            "posX" : "d",
+            "posY" : "7"
+        },
+        {
+            "type" : "pawn",
+            "posX" : "e",
+            "posY" : "7"
+        },
+        {
+            "type" : "pawn",
+            "posX" : "f",
+            "posY" : "7"
+        },
+        {
+            "type" : "pawn",
+            "posX" : "g",
+            "posY" : "7"
+        },
+        {
+            "type" : "pawn",
+            "posX" : "h",
+            "posY" : "7"
+        },
+        {
+            "type" : "rook",
+            "posX" : "a",
+            "posY" : "8"
+        },
+        {
+            "type" : "horse",
+            "posX" : "b",
+            "posY" : "8"
+        },
+        {
+            "type" : "bishop",
+            "posX" : "c",
+            "posY" : "8"
+        },
+        {
+            "type" : "queen",
+            "posX" : "d",
+            "posY" : "8"
+        },
+        {
+            "type" : "king",
+            "posX" : "e",
+            "posY" : "8"
+        },
+        {
+            "type" : "bishop",
+            "posX" : "f",
+            "posY" : "8"
+        },
+        {
+            "type" : "horse",
+            "posX" : "g",
+            "posY" : "8"
+        },
+        {
+            "type" : "rook",
+            "posX" : "h",
+            "posY" : "8"
+        }
+    ]
+}

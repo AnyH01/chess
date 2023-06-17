@@ -1,0 +1,31 @@
+{
+    "blackPieces": [
+        {
+            "canCastle": true,
+            "posX": 8,
+            "posY": 97,
+            "type": "rook"
+        },
+        {
+            "posX": 2,
+            "posY": 98,
+            "type": "queen"
+        },
+        {
+            "castle": true,
+            "posX": 8,
+            "posY": 101,
+            "type": "king"
+        }
+    ],
+    "size": 8,
+    "turn": 0,
+    "whitePieces": [
+        {
+            "castle": false,
+            "posX": 1,
+            "posY": 101,
+            "type": "king"
+        }
+    ]
+}

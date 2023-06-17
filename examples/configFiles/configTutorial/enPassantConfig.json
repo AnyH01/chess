@@ -1,0 +1,72 @@
+{
+    "size": 8,
+    "turn": 0,
+    "whitePieces" : [
+        {
+            "type" : "pawn",
+            "doubleMove" : false,
+            "isNotMove" : false,
+            "posX" : 5,
+            "posY" : 98
+        },
+        {
+            "type" : "pawn",
+            "doubleMove" : false,
+            "isNotMove" : false,
+            "posX" : 4,
+            "posY" : 99
+        },
+        {
+            "type" : "bishop",
+            "posX" : 3,
+            "posY" : 97
+        },
+        {
+            "castle": true,
+            "type" : "king",
+            "posX" : 2,
+            "posY" : 104
+        }
+    ],
+    "blackPieces" : [
+        {
+            "type" : "pawn",
+            "doubleMove" : true,
+            "isNotMove" : false,
+            "posX" : 5,
+            "posY" : 97
+        },
+        {
+            "type" : "pawn",
+            "doubleMove" : false,
+            "isNotMove" : false,
+            "posX" : 5,
+            "posY" : 101
+        },
+        {
+            "type" : "pawn",
+            "doubleMove" : false,
+            "isNotMove" : false,
+            "posX" : 6,
+            "posY" : 102
+        },
+        {
+            "type" : "pawn",
+            "doubleMove" : false,
+            "isNotMove" : false,
+            "posX" : 3,
+            "posY" : 103
+        },
+        {
+            "type" : "bishop",
+            "posX" : 4,
+            "posY" : 103
+        },
+        {
+            "castle": true,
+            "type" : "king",
+            "posX" : 8,
+            "posY" : 101
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+specifikace zadání
+Jedná se o klasickou hru šachy. Hra bude dodržovat všechna pravidla běžné hry. Bude tedy také obsahovat rošádu, braní mimochodem a proměnu pěsce.
+
+V úvodním menu si uživatel bude moct vybrat ze čtyř možností.
+1 tutoriál
+2 hra dvou hráčů na jednom počítači
+3 hra proti počítači
+4 konec
+
+Tutoriál
+Bude obsahovat krátký úvod, co jsou vlastně šachy, na jakém principu fungují a jak se kdy nastane konec hry. Dále popisy tahů jednotlivých figurek a speciální tahy (rošáda, braní mimochodem, proměna pěšce).
+
+Hra dvou hráčů
+Oba hráči budou hrát z jednoho počítače a bude se vždy střídat, kdo bude aktuálně na tahu. Hra bude odpovídat normální hře šachů.
+
+Hra proti počítači
+Hráč bude hrát proti jednoduchému AI, které bude realizováno pomocí minmax algoritmu. Bude mít možnost si vybrat ze tří úrovní AI, které se budou lišit hloubkou prohledávacího stromu.
+
+konfigurační soubory
+Celá hra se bude načítat z konfiguračních souborů. Pro tutoriál, hru dvou hráčů a hru proti počítači budou existovat jednotlivé konfigurační soubory.
+Pro tutoriál bude soubor obsahovat předpřipravené zprávy, které se budou zobrazovat hráči.
+Pro hru dvou hráčů a proti počítači se bude ze souboru načítat velikost šachovnice a rozestavění figurek.
